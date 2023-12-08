@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_lab_2</string>
+    <string name="item_name_hint">Enter item name</string>
+    <string name="item_quantity_hint">Enter item quantity</string>
+    <string name="add_item">Add Item</string>
+    <string name="edit_button">Edit</string>
+    <string name="delete_button">Delete</string>
+</resources>
